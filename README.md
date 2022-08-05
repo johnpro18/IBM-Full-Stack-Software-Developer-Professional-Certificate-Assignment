@@ -1,4 +1,4 @@
-# **IBM-Full-Stack-Software-Developer-Professional-Certificate-Assignment**
+# **IBM Full Stack Software Developer Professional Certificate Assignments**
 
 ### Course 01 - Introduction to Cloud Computing
 ### Course 02 - Introduction to Web Development with HTML, CSS, and JavaScript
