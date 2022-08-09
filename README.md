@@ -1,4 +1,4 @@
-# **IBM Full Stack Software Developer Specialization Assignments**
+# **IBM Full Stack Software Developer Specialization**
 
 ### Course 01 - Introduction to Cloud Computing
 ### Course 02 - Introduction to Web Development with HTML, CSS, and JavaScript
